@@ -3,7 +3,7 @@
 
 ### 索引
 * [图片相关](https://github.com/Blankj/AndroidUtilCode)
-* [爬虫相关](https://github.com/bumptech/glide)
+* [爬虫相关](https://github.com/bumptech/glide)[更新中]
 
 
 ### About me
