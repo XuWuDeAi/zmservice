@@ -2,8 +2,8 @@
 
 
 ### 索引
-* [图片相关](https://github.com/Blankj/AndroidUtilCode)
-* [爬虫相关](https://github.com/bumptech/glide)[更新中]
+* [图片相关](https://github.com/XuWuDeAi/zmservice/blob/master/src/java/controller/ImgController.java)
+* [爬虫相关](https://github.com/XuWuDeAi/zmservice/blob/master/src/java/controller/ReptileControl.java)[更新中]
 
 
 ### About me
