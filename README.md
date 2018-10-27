@@ -1,8 +1,7 @@
-## MMusic
+## javaee最佳实践
 
-MMusic2.6
-* [app下载](https://www.coolapk.com/apk/203332)
-### Thanks to the open source project
+
+### 索引
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
 * [glide](https://github.com/bumptech/glide)
 * [okhttputils](https://github.com/hongyangAndroid/okhttputils)
