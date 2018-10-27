@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		
+		<style>
+			.main{
+				
+			}
+			
+			.main input{
+				margin: 20px;
+			}
+			.main input[type='submit']{
+				background-color: cornflowerblue;
+				color: #fff;
+				border: 1px solid #ccc;
+				border-radius: 1px;
+				padding: 8px 18px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class='main'>
+			<form method="post" action="creThumbnails.do" enctype="multipart/form-data">
+		    	<input type="file" name="fileUpload" /> <br>
+		    	<input type="submit" value="上传" /> <br>
+	    	</form>
+	   </div>
+	</body>
+</html>
