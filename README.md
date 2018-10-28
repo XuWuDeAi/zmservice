@@ -1,6 +1,6 @@
 ## javaee最佳实践
 
-
+#作者服务器部署地址:http://47.106.162.236/zmservice/verification.do
 ### 索引
 * [图片相关](https://github.com/XuWuDeAi/zmservice/blob/master/src/java/controller/ImgController.java)
 * [爬虫相关](https://github.com/XuWuDeAi/zmservice/blob/master/src/java/controller/ReptileControl.java)[更新中]
